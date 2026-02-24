@@ -1,91 +1,76 @@
-# Power BI Sales & Revenue Dashboard
-* Project Overview: 
+Food & Beverage Sales & Revenue Analysis (Power BI)
+* Dashboard Preview:
 
-I built this interactive Power BI dashboard to explore and analyze Food & Beverage sales performance. The goal was to turn raw data into clear, actionable insights by looking at trends across sales channels, product categories, and team performance.
+![Dashboard](Sales & Revenue Analysis.png)
 
-* What I Did:
+* About This Project:
 
-Cleaned and prepared the dataset for analysis
+This project is a Power BI dashboard built to analyze sales performance for a Food & Beverage business.
 
-Built a data model to connect different tables
+The goal was to turn raw data into clear, actionable insights by looking at sales across different channels, products, managers, and time periods.
 
-Created DAX measures to calculate key metrics
+* What This Dashboard Shows:
 
-Designed an interactive dashboard for easy exploration
+Overall business performance (Orders, Revenue, Quantity)
 
-* Key Metrics:
+Sales trends across multiple years
 
-Total Orders: 53K
+Channel-wise performance (Distributor, Online, Retail)
 
-Total Revenue: 17.91M
+Manager and salesperson performance
 
-Total Quantity Sold: 6M
-
-These KPIs give a quick overview of business performance.
+Product category contribution (Food vs Drink)
 
 * Key Insights:
 
-The Retail channel generates the highest revenue
+Retail channel generates the highest revenue
 
-Food products contribute more to overall sales than drinks
+2020 shows peak performance compared to other years
 
-Some supervisors consistently outperform others
+Food category dominates sales over drinks
 
-Sales peaked in 2020
+Some supervisors and salespersons consistently outperform others
 
-* Dashboard Features:
-1. Sales Analysis
+* Features:
 
-Compare performance across Distributor, Online, and Retail channels
+Interactive filters for:
 
-Track sales trends from 2019–2021
+Channel (Distributor, Online, Retail)
 
-2. Performance Analysis
+Product Category (Food, Drink)
 
-View sales by Supervisor and Manager
+Year (2019–2021)
 
-Identify top-performing salespeople
+Drill-down capability for deeper analysis
 
-3. Product Analysis
+KPI cards for quick business overview
 
-Compare Food vs Drink categories
+Visuals including bar charts, pie charts, and trend lines
 
-Understand each category’s contribution to revenue
+Key Influencers visual for deeper insights
 
-4. Time Analysis
-
-Analyze yearly trends for orders, revenue, and quantity
-
-* Interactivity:
-
-The dashboard is fully interactive, allowing users to:
-
-Filter by channel, product category, and year
-
-Drill down into specific data for deeper insights
-
-* Tools & Skills:
+* Tools Used:
 
 Power BI
 
-DAX (Data Analysis Expressions)
+DAX (for calculations and KPIs)
 
-Data Modeling
+Excel / CSV (data source)
 
-Data Visualization
+* Files in This Repository:
 
-Excel / CSV Data Handling
+Sales & Revenue Analysis.pbix – Power BI report
 
-* Project Files
-
-Power BI Report (.pbix)
-
-Dashboard screenshots
+Sales & Revenue Analysis.png – Dashboard preview
 
 * How to Use:
 
-Download the .pbix file and open it in Power BI Desktop to explore the dashboard and interact with the data.
+Download the .pbix file
+
+Open it using Power BI Desktop
+
+Use filters and visuals to explore the dashboard
 
 * About Me:
 
-I enjoy turning data into meaningful insights and building dashboards that make decision-making easier. This project showcases my ability to work with data, create models, and present findings visually.
+I’m building projects in Data Analytics and Power BI to develop practical, real-world skills in data visualization and storytelling.
