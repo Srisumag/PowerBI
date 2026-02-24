@@ -59,7 +59,7 @@ Excel / CSV (data source)
 
 * Files in This Repository:
 
-Sales & Revenue Analysis.pbix – Power BI report
+Sales Analysis.pbix – Power BI report
 
 Sales & Revenue Analysis.png – Dashboard preview
 
