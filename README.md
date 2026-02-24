@@ -89,6 +89,3 @@ Download the .pbix file and open it in Power BI Desktop to explore the dashboard
 * About Me:
 
 I enjoy turning data into meaningful insights and building dashboards that make decision-making easier. This project showcases my ability to work with data, create models, and present findings visually.
-
-<Your Name>
-# PowerBI
