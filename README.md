@@ -2,6 +2,8 @@ Food & Beverage Sales & Revenue Analysis (Power BI)
 * Dashboard Preview:
 
 ![Dashboard](Sales & Revenue Analysis.png)
+<img width="1338" height="747" alt="Sales   Revenue Analysis" src="https://github.com/user-attachments/assets/2b13b990-8fc5-446d-9c29-8c2e61b73269" />
+
 
 * About This Project:
 
@@ -38,7 +40,6 @@ Interactive filters for:
 Channel (Distributor, Online, Retail)
 
 Product Category (Food, Drink)
-<img width="1338" height="747" alt="Sales   Revenue Analysis" src="https://github.com/user-attachments/assets/bbededc7-3ed4-4a4e-9c35-3b7efbef634a" />
 
 Year (2019–2021)
 
