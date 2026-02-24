@@ -38,6 +38,7 @@ Interactive filters for:
 Channel (Distributor, Online, Retail)
 
 Product Category (Food, Drink)
+<img width="1338" height="747" alt="Sales   Revenue Analysis" src="https://github.com/user-attachments/assets/bbededc7-3ed4-4a4e-9c35-3b7efbef634a" />
 
 Year (2019–2021)
 
