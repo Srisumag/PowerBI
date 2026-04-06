@@ -1,6 +1,6 @@
 # 📊 Food & Beverage Sales & Revenue Analysis | Power BI
 
-## 🔍 Project Overview
+## Project Overview
 This project presents an interactive **Sales & Revenue Analysis Dashboard** built using Power BI to analyze business performance across products, channels, and time.
 
 The dashboard helps stakeholders make **data-driven decisions** by identifying trends, top-performing segments, and growth opportunities.
@@ -25,7 +25,7 @@ This dashboard provides a **centralized and interactive view of key business met
 
 ---
 
-## 🔄 Data Preparation
+## Data Preparation
 - Cleaned and transformed raw data using Power Query  
 - Structured dataset for reporting  
 - Created calculated measures for analysis  
@@ -44,12 +44,12 @@ This dashboard provides a **centralized and interactive view of key business met
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 ![Dashboard](./Sales%20%26%20Revenue%20Analysis.png)
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Retail channel generates the highest revenue  
 - 2020 shows peak performance compared to other years  
 - Food category contributes more to total sales than drinks  
@@ -66,7 +66,7 @@ This dashboard helps stakeholders to:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Download the `.pbix` file  
 2. Open in Power BI Desktop  
 3. Explore the dashboard using filters and visuals  
