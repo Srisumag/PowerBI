@@ -45,7 +45,8 @@ This dashboard provides a **centralized and interactive view of key business met
 ---
 
 ## Dashboard Preview
-Sales
+
+![Sales Performance Details](./Sales%20Performance%20Details.jpg)
 
 ---
 
