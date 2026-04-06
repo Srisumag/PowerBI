@@ -1,9 +1,9 @@
 # 📊 Food & Beverage Sales & Revenue Performance Analysis
 
 ## Project Overview
-This project presents an interactive **Sales & Revenue Analysis Dashboard** built using Power BI to analyze business performance across products, channels, and time.
+This project presents an interactive **Sales & Revenue Performance Analysis Dashboard** built using Power BI, consisting of two key pages: **Executive Summary** and **Sales Performance Details**.
 
-The dashboard helps stakeholders make **data-driven decisions** by identifying trends, top-performing segments, and growth opportunities.
+The dashboard analyzes business performance across products, channels, and time, enabling stakeholders to make **data-driven decisions** by identifying trends, top-performing segments, and growth opportunities.
 
 ---
 
@@ -45,7 +45,7 @@ This dashboard provides a **centralized and interactive view of key business met
 ---
 
 ## Dashboard Preview
-
+Sales
 
 ---
 
