@@ -81,11 +81,12 @@ This dashboard helps stakeholders to:
 ---
 
 ## 📂 Files in This Repository
-- Sales Analysis.pbix – Power BI report  
-- Sales & Revenue Analysis.png – Dashboard preview  
-- README.md  
+- Sales and Revenue Performance Analysis.pbix – Power BI report file  
+- Sales & Revenue Performance Analysis.jpg – Executive Summary dashboard preview   
+- Sales Performance Details.jpg – Drill-through detailed analysis view  
 
 ---
 
 ## 👤 About Me
 I’m a Data Analyst with 2.5 years of experience, building projects in Power BI and data analytics to develop real-world business insights and data storytelling skills.
+
