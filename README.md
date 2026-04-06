@@ -45,7 +45,7 @@ This dashboard provides a **centralized and interactive view of key business met
 ---
 
 ## Dashboard Preview
-![Dashboard](./Sales%20%26%20Revenue%20Analysis.png)
+
 
 ---
 
